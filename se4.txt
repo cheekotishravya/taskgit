@@ -1,0 +1,1 @@
+now enter commands in gitbash
